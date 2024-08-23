@@ -3,7 +3,8 @@ Caso Practico: Prestamos Financieros
 # Entregables
 
 Modelo E/R:
-![image](https://github.com/user-attachments/assets/56b59f53-4ea6-4547-8132-15c6ef941d19)
+![Diagrama E-R](https://github.com/user-attachments/assets/330f963e-4525-41bc-aa6c-13b0acdcf497)
+
 
 Modelo Lógico:
 
