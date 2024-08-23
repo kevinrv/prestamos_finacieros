@@ -21,3 +21,5 @@ Seguimente se crean las tablas prestamos, detalle_cuotas y finalmente la tabla p
 Script de la base de datos
 Descargar del siguiente link: https://github.com/kevinrv/prestamos_finacieros/blob/main/Script_pf.sql 
 
+Script con datos: https://github.com/kevinrv/prestamos_finacieros/blob/main/Script_schema_and_data.sql
+
